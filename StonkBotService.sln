@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StonkBot", "StonkBot.csproj", "{77887512-9A6E-468D-9A64-1AD0C09659FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77887512-9A6E-468D-9A64-1AD0C09659FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77887512-9A6E-468D-9A64-1AD0C09659FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77887512-9A6E-468D-9A64-1AD0C09659FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77887512-9A6E-468D-9A64-1AD0C09659FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6604353-34F9-46B1-B73F-66C547CB2F4C}
+	EndGlobalSection
+EndGlobal
